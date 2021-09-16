@@ -1,9 +1,5 @@
 # React Native Email Link
 
-[![GitHub release](https://img.shields.io/npm/v/react-native-email-link.svg)](https://www.npmjs.com/package/react-native-email-link)
-[![NPM](https://img.shields.io/npm/dm/react-native-email-link.svg)](https://www.npmjs.com/package/react-native-email-link)
-[![GitHub license](https://img.shields.io/github/license/flexible-agency/react-native-email-link.svg)](https://github.com/flexible-agency/react-native-email-link/blob/master/LICENSE)
-
 ---
 
 An easy way to open an email app of the user's choice, based on the apps they have installed
@@ -270,29 +266,3 @@ openComposer({
   body: "Hi, can you help me with...",
 });
 ```
-
-## Authors
-
-This library is developed by [Flexible Agency](https://flexible.agency/), a tech consulting
-company like no other.
-
-Contributors:
-
-- Thomas Schoffelen, [@tschoffelen](https://twitter.com/tschoffelen)
-- César Jeanroy, [@cesar3030](https://github.com/cesar3030)
-
-
-
-<br /><br />
-
----
-
-<div align="center">
-	<b>
-		<a href="https://schof.co/consulting/?utm_source=flexible-agency/react-native-email-link">Get professional support for this package →</a>
-	</b>
-	<br>
-	<sub>
-		Custom consulting sessions availabe for implementation support or feature development.
-	</sub>
-</div>

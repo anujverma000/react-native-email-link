@@ -1,12 +1,12 @@
 {
-  "name": "react-native-email-link",
-  "version": "1.11.3",
-  "versionCode": 3,
-  "description": "Open the mail app of the user's choice",
+  "name": "react-native-email-intent",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "description": "Open the mail app of the user's choice ( fork of react-native-email-link)",
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexible-agency/react-native-email-link.git"
+    "url": "git+https://github.com/anujverma000/react-native-email-link.git"
   },
   "scripts": {
     "lint:fix": "prettier --write .",
@@ -22,11 +22,11 @@
     "ios",
     "android"
   ],
-  "author": "Thomas Schoffelen <thomas@flexible.agency> (https://flexible.agency/)",
+  "author": "Anuj Verma <anujverma000@gmail.com> (anujverma000@gmail.com)",
   "license": "MIT",
-  "homepage": "https://github.com/flexible-agency/react-native-email-link#readme",
+  "homepage": "https://github.com/anujverma000/react-native-email-link#readme",
   "bugs": {
-    "url": "https://github.com/flexible-agency/react-native-email-link/issues"
+    "url": "https://github.com/anujverma000/react-native-email-link/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
